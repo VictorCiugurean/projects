@@ -1,2 +1,2 @@
-# API Konyks
-# This is a project to create own API in order to extract data locally for Konyks installed devices. 
+# Bycicle widget
+# Python widget to indicate the number of days a bycicle was used to work. 
